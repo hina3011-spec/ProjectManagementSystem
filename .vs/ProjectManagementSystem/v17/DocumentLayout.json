@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hina .net Projects\\ProjectManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\validators\\employeecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\validators\\employeecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\middlewaer\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\middlewaer\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\dtos\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\dtos\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\interfaces\\iemployeeservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\interfaces\\iemployeeservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\dtos\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\dtos\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\data\\projectmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\data\\projectmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\dtos\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\dtos\\refreshtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|d:\\hina .net projects\\projectmanagementsystem\\projectmanagement.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D970C9FF-063F-47B0-9FFC-E3CBDFF9680A}|ProjectManagement.API\\ProjectManagement.API.csproj|solutionrelative:projectmanagement.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Validators\\EmployeeCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Validators\\EmployeeCreateDtoValidator.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Validators\\EmployeeCreateDtoValidator.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Validators\\EmployeeCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T10:04:52.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T05:31:03.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeResponseDto.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\EmployeeResponseDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\DTOs\\EmployeeResponseDto.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\EmployeeResponseDto.cs",
+              "RelativeToolTip": "ProjectManagement.API\\DTOs\\EmployeeResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T05:28:58.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Program.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Program.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:24:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T05:24:33.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA7wGgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T12:13:46.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Middlewaer\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Middlewaer\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Middlewaer\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Middlewaer\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T07:43:09.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Services\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Services\\RefreshTokenService.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Services\\RefreshTokenService.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Services\\RefreshTokenService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:19:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagedResponseDto.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\PagedResponseDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\DTOs\\PagedResponseDto.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\PagedResponseDto.cs",
+              "RelativeToolTip": "ProjectManagement.API\\DTOs\\PagedResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T11:09:11.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeService.cs.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Interfaces\\IEmployeeService.cs.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Interfaces\\IEmployeeService.cs.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Interfaces\\IEmployeeService.cs.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Interfaces\\IEmployeeService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T11:14:18.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\DTOs\\PaginationDto.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\PaginationDto.cs",
+              "RelativeToolTip": "ProjectManagement.API\\DTOs\\PaginationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T11:06:48.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:33:14.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "ProjectManagement.API\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:26:08.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:28:10.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectManagementContext.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Data\\ProjectManagementContext.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Data\\ProjectManagementContext.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Data\\ProjectManagementContext.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Data\\ProjectManagementContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:17:00.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAIwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:28:17.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\Models\\Department.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\Models\\Department.cs",
+              "RelativeToolTip": "ProjectManagement.API\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T06:12:11.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ProjectManagement.API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:33:32.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RefreshTokenDto.cs",
+              "DocumentMoniker": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\RefreshTokenDto.cs",
+              "RelativeDocumentMoniker": "ProjectManagement.API\\DTOs\\RefreshTokenDto.cs",
+              "ToolTip": "D:\\Hina .net Projects\\ProjectManagementSystem\\ProjectManagement.API\\DTOs\\RefreshTokenDto.cs",
+              "RelativeToolTip": "ProjectManagement.API\\DTOs\\RefreshTokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T16:36:11.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
