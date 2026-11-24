@@ -1,3 +1,4 @@
+using FluentValidation;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -7,10 +8,10 @@ using ProjectManagement.API.Data;
 using ProjectManagement.API.Interfaces;
 using ProjectManagement.API.Middleware;
 using ProjectManagement.API.Profiles;
+using ProjectManagement.API.Repositories;
 using ProjectManagement.API.Services;
-using System.Text;
-using FluentValidation;
 using ProjectManagement.API.Validators;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,6 +50,7 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddAuthorization();
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddScoped<PasswordService>();
 builder.Services.AddScoped<TokenService>();
 builder.Services.AddScoped<IAuthService, AuthService>();

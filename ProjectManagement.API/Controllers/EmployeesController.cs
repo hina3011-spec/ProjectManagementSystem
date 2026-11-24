@@ -16,10 +16,12 @@ namespace ProjectManagement.API.Controllers
         private readonly IEmployeeService _employeeService;
 
         private readonly IValidator<EmployeeCreateDto> _employeeValidator;
-        public EmployeesController(IEmployeeService employeeService,IValidator<EmployeeCreateDto> employeeValidator)
+        private readonly IValidator<EmployeeUpdateDto> _employeeUpdateValidator;
+        public EmployeesController(IEmployeeService employeeService,IValidator<EmployeeCreateDto> employeeValidator, IValidator<EmployeeUpdateDto> employeeUpdateValidator)
         {
             _employeeService = employeeService;
             _employeeValidator = employeeValidator;
+            _employeeUpdateValidator = employeeUpdateValidator;
         }
         // GET: api/Employees
 
@@ -53,6 +55,15 @@ namespace ProjectManagement.API.Controllers
         {
             try
             {
+                var validationResult =    await _employeeUpdateValidator.ValidateAsync(dto);
+
+                if (!validationResult.IsValid)
+                {
+                    var errors = validationResult.Errors
+                        .Select(e => e.ErrorMessage);
+
+                    return BadRequest(errors);
+                }
                 await _employeeService.UpdateEmployeeAsync(id, dto);
 
                 return Ok("Employee updated successfully");
@@ -88,7 +99,7 @@ namespace ProjectManagement.API.Controllers
         }
         // POST: api/Employees
         [HttpPost]
-        [Authorize(Roles = "Admin")]
+       // [Authorize(Roles = "Admin")]
         public async Task<IActionResult> CreateEmployee(EmployeeCreateDto dto)
         {
             try

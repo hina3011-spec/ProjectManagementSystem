@@ -10,13 +10,14 @@ namespace ProjectManagement.API.Services
     public class EmployeeService : IEmployeeService
     {
         private readonly ProjectManagementContext _context;
-        
-        public EmployeeService(ProjectManagementContext context,ILogger<EmployeeService> logger,PasswordService passwordService, IMapper mapper)
+        private readonly IEmployeeRepository _employeeRepository;
+        public EmployeeService(ProjectManagementContext context,ILogger<EmployeeService> logger,PasswordService passwordService, IMapper mapper, IEmployeeRepository employeeRepository)
         {
             _context = context;
             _logger = logger;
             _passwordService = passwordService;
             _mapper = mapper;
+            _employeeRepository = employeeRepository;
         }
 
         private readonly IMapper _mapper;
@@ -24,10 +25,12 @@ namespace ProjectManagement.API.Services
         // Get all employees
         public async Task<IEnumerable<EmployeeResponseDto>> GetAllEmployeesAsync()
         {
-            var employees = await _context.Employees
-                           .Include(e => e.Department)
-                           .AsNoTracking()
-                           .ToListAsync();
+            //var employees = await _context.Employees
+            //               .Include(e => e.Department)
+            //               .AsNoTracking()
+            //               .ToListAsync();
+            var employees = await _employeeRepository.GetAllAsync();
+
 
             return _mapper.Map<IEnumerable<EmployeeResponseDto>>(employees);
 
