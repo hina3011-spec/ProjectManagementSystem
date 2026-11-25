@@ -58,13 +58,14 @@ namespace ProjectManagement.API.Services
 
 
             //return employee;
-            var employee = await _context.Employees
-        .Include(e => e.Department)
-        .AsNoTracking()
-        .FirstOrDefaultAsync(e => e.EmployeeId == id);
+            //    var employee = await _context.Employees
+            //.Include(e => e.Department)
+            //.AsNoTracking()
+            //.FirstOrDefaultAsync(e => e.EmployeeId == id);
 
-            if (employee == null)
-                return null;
+            //    if (employee == null)
+            //        return null;
+            var employee = await _employeeRepository.GetByIdAsync(id);
 
             return _mapper.Map<EmployeeResponseDto>(employee);
         }
