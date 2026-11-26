@@ -184,11 +184,12 @@ namespace ProjectManagement.API.Services
                 throw new KeyNotFoundException("Employee not found");
             }
 
-            // 3. Delete employee
-            _context.Employees.Remove(employee);
+            //// 3. Delete employee
+            //_context.Employees.Remove(employee);
 
-            // 4. Save changes
-            await _context.SaveChangesAsync();
+            //// 4. Save changes
+            //await _context.SaveChangesAsync();
+            await _employeeRepository.DeleteAsync(employee);
         }
 
         private readonly PasswordService _passwordService;
